@@ -1,0 +1,19 @@
+# Medical Appointment System (Google AppSheet)
+
+## Περιγραφή Έργου
+Το σύστημα διαχείρισης ραντεβού αναπτύχθηκε με **Google AppSheet** και αποθηκεύει δεδομένα στο **Google Sheets**.
+
+## Περιεχόμενα Repository
+- **data/** → Δομές δεδομένων σε `.xlsx/.csv`
+- **documentation/** → Ρυθμίσεις AppSheet, screenshots UI, workflows
+- **README.md** → Οδηγίες χρήσης
+
+## Οδηγίες Πρόσβασης
+1. Ανοίξτε το [Google AppSheet](https://www.appsheet.com).
+2. Συνδεθείτε με το email σας και προσθέστε το ID του App.
+3. Αντιγράψτε το Google Sheets αρχείο και συνδέστε το ως database.
+
+## Συντάκτες
+- Γιώργος Καλογερόπουλος
+- Ερμιόνη Καλομοίρη
+- Κωνσταντίνα Αρμενάκη
